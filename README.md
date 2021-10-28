@@ -28,7 +28,7 @@
 <br />
 
 <!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Faisalaus.Faisalaus)
 
 ⭐️ From [Faisalaus](https://github.com/faisalaus/faisalaus) 
 
