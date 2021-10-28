@@ -38,6 +38,6 @@
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
 
-⭐️ From [TomasCostaK](https://github.com/TomasCostaK/TomasCostaK) 
+⭐️ From [Faisalaus](https://github.com/faisalaus/faisalaus) 
 
 <br />
