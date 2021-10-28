@@ -1,11 +1,11 @@
 <p align="center">
- <h2 align="center">Welcome to my Profile</h2>
+ <h2 align="center">Welcome to my GitHub Profile</h2>
 </p>
 
 ### Hi Everyone, I am [Faisal](https://github.com/faisalaus)
 
-<a href="https://www.linkedin.com/in/tomascostax/">
-  <img align="left" alt="TomasCostaK LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/faisal-ahmed-8a986246/">
+  <img align="left" alt="FaisalAhmed LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://youtube.com">
   <img align="left" alt="TomasCostaK Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
